@@ -20,7 +20,7 @@
 
     
 ?>
-    <!-- Comentario para ver los cambios -->
+    
     <h1>dmkamd</h1>
     <div>
         <form action="ping.php" method="GET">
