@@ -18,9 +18,10 @@
         $valorPong=$_POST['valorPong']+1;
     }
 
-
+    
 ?>
-
+    <!-- Comentario para ver los cambios -->
+    <h1>dmkamd</h1>
     <div>
         <form action="ping.php" method="GET">
             <input type="text" name="valorPing" value =<?php echo $valorPing?>>
